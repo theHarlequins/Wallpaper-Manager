@@ -1,0 +1,8 @@
+{
+    "minimize_to_tray": true,
+    "show_notifications": true,
+    "auto_start": true,
+    "theme": "light",
+    "backup_wallpapers": true,
+    "backup_folder": "C:\\Users\\Grisha\\WallpaperBackups"
+}
